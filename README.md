@@ -9,3 +9,4 @@ The first method uses an OpenTopography tile index to automatically locate and d
 
 The second introduces a cloud-native workflow powered by PDAL, which streams point cloud data directly from remote storage—enabling clipping and processing on-the-fly without the need to download lidar tiles locally.
 
+Email: info@opentopography.org with any questions or comments
