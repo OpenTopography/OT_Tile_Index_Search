@@ -1,2 +1,2 @@
-# OT_SearchTileIndex
-Jupyter notebook to access tile index files
+# Leveraging Tile Indexes for Programmatic Access to OpenTopography’s Lidar Datasets
+This notebook explores two distinct strategies for working with tiled point cloud datasets. First, it demonstrates how to leverage an OpenTopography-provided tile index to programmatically identify and download only the specific files covering a defined area of interest. Second, it will introduce a more advanced, cloud-native workflow that uses PDAL to stream data directly from remote storage, allowing users to clip and process the data on-the-fly without requiring local downloads of the lidar tiles.
