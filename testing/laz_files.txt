@@ -1,0 +1,2 @@
+https://opentopography.s3.sdsc.edu/pc-bulk/NZ15_Huntly/CL2_BC33_2015_1000_0722.laz
+https://opentopography.s3.sdsc.edu/pc-bulk/NZ15_Huntly/CL2_BC33_2015_1000_0723.laz
