@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Beckley"
+  given-names: "Matthew"
+title: "Programmatic Access to OpenTopography Lidar Data via Tile Indexes"
+version: 1.0.0
+date-released: 2025-09-29
+repository-code: "https://github.com/OpenTopography/OT_Tile_Index_Search"
